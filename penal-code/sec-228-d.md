@@ -1,0 +1,12 @@
+# 228D. Destruction of child pornographic material
+228D.(1) If a court of summary jurisdiction is satisfied by information on oath that there are reasonable grounds to believe that there is child pornographic material that is stored on and made available through a computer system that is within the jurisdiction of the court, the court may order the custodian of the computer system to --
+(a) give an electronic copy of the child pornographic material to the court;
+(b) ensure that the child pornographic material is no longer stored on and made available through the computer system; and
+(c) provide the information necessary to identify and locate the person who posted the child pornographic material.
+(2) Within a reasonable time after receiving the information referred to in subsection (1)(c), the court shall cause notice to be given to the person who posted the child pornographic material, giving that person the opportunity to appear and be represented before the court, and show cause why the child pornographic material should not be deleted; and, if the person cannot be identified or located or does not reside in the Islands, the court may order the custodian of the computer system to post the text of the notice at the location where the child pornographic material was previously stored and made available, until the time set for the appearance.
+(3) The person who posted the child pornographic material may appear and be represented in the proceedings in order to oppose the making of an order under subsection (5).
+(4) If the person who posted the child pornographic material does not appear for the proceedings, the court may proceed ex parte to hear and determine the proceedings in the absence of the person as fully and effectually as if the person had appeared.
+(5) If the court is satisfied, on a balance of probabilities, that the material is child pornography or data that makes child pornography available, it may order the custodian of the computer system to delete the child pornographic material.
+(6) When the court makes the order for the deletion of the child pornographic material, it may order the destruction of the electronic copy in the court's possession.
+(7) If the court is not satisfied that the material is child pornography or data that make child pornography available, the court shall order that the electronic copy be returned to the custodian and terminate the order under subsection (1)(b).
+(8) No order made under subsections (5) to (7) takes effect until the time for final appeal has expired.

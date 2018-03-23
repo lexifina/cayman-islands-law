@@ -1,0 +1,7 @@
+# 45C. Breach of sexual harm prevention order or interim sexual harm prevention
+order an offence
+45C. (1) If at any time while a sexual harm prevention order or interim sexual harm prevention order is in force in respect of any person, it appears on information to the court that made the order that the person has failed to comply with any of the requirements of the order, or has attempted to do so, the court may issue a summons directing the person to appear before the court, or may, if the information is in writing and on oath, issue a warrant for the person's arrest and for the person to be brought before the court.
+(2) If at any time while a sexual harm prevention order or interim sexual harm prevention order is in force in respect of any person, a constable may arrest that person, without a warrant, where the constable reasonably suspects that the
+person has failed to comply with any of the requirements of the order, or has attempted to do so.
+(3) A person who, without reasonable excuse fails to comply with any of the requirements of the order, or attempts to do so, commits an offence and is liable on summary conviction, to imprisonment for a term not exceeding four years or to a fine not exceeding three thousand dollars or to both.
+(4) Where a person is convicted of failing to comply with any of the requirements of the order, or attempting to do so, that person may be committed to the Grand Court and the Grand Court shall have the same sentencing powers of the Summary Court and may impose such a sentence in addition to any other sentence.
