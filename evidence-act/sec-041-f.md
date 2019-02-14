@@ -11,7 +11,8 @@
 (2) Where the court, in making a determination for the purposes of section 41D(2), determines that a witness in criminal proceedings is a child witness, the court shall --
 (a) first have regard to subsections (3) to (7); and
 (b) then have regard to section 41D(2),
-and for the purposes of section 41D(2), as it then applies to the witness, any special measures required to be applied in relation to him by virtue of this section shall be treated as if they were measures determined by the court, pursuant to section 41D(2)(a) and (b)(i), to be ones that, whether on their own or with any other special measures, would be likely to maximise, so far as practicable, the quality of his evidence.
+and for the purposes of section 41D(2), as it then applies to the witness, any special measures required to be applied in relation to him by virtue of this
+section shall be treated as if they were measures determined by the court, pursuant to section 41D(2)(a) and (b)(i), to be ones that, whether on their own or with any other special measures, would be likely to maximise, so far as practicable, the quality of his evidence.
 (3) The primary rule in the case of a child witness is that the court shall give a special measures direction in relation to the witness which complies with the following requirements --
 (a) it shall provide for any relevant recording to be admitted under section 41J; and
 (b) it shall provide for any evidence given by the witness in the proceedings which is not given by means of a video recording, whether in chief or otherwise, to be given by means of a live link in accordance with section 41I.

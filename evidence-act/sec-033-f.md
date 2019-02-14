@@ -1,0 +1,6 @@
+# 33F. Credibility
+33F. (1) Where in criminal proceedings a statement not made in oral evidence in the proceedings is admitted as evidence of a matter stated and the maker of the statement does not give oral evidence in connection with the subject matter of the statement, in such a case --
+(a) any evidence which (if the person had given such evidence) would have been admissible as relevant to that person's credibility as a witness is admissible in the proceedings;
+(b) evidence may with the court's leave be given of any matter which (if the person had given such evidence) could have been put to that person in cross-examination as relevant to that person's credibility as a witness but of which evidence could not have been adduced by the cross-examining party; and
+(c) evidence tending to prove that the person made (at whatever time) any other statement inconsistent with the statement admitted as evidence is admissible for the purpose of showing that person to be contradictory.
+(2) If as a result of evidence admitted under this section an allegation is made against the maker of a statement, the court may permit a party to lead additional evidence of such description as the court may specify for the purposes of denying or answering the allegation.

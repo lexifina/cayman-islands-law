@@ -1,5 +1,5 @@
 # 41H. Screening witness from accused
-41H. (1) A special measures direction may provide for the witness, while giving testimony or being sworn in court, to be prevented by means of a screen or other arrangement from seeing the accused.
+41H.(1) A special measures direction may provide for the witness, while giving testimony or being sworn in court, to be prevented by means of a screen or other arrangement from seeing the accused.
 (2) The screen or other arrangement shall not prevent the witness from being able to see, and to be seen by --
 (a) the magistrate or judge, or both, and the jury, if there is one;
 (b) legal representatives acting in the proceedings; and
