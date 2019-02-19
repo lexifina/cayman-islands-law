@@ -1,5 +1,5 @@
 # 228A. Indecent photographs of children
-228A. (1) A person who --
+228A.(1) A person who --
 (a) has in his possession an indecent photograph or pseudo-photograph of a child;
 (b) takes, permits to be taken or makes an indecent photograph or pseudo- photograph of a child; or
 (c) distributes or shows an indecent photograph or pseudo-photograph of a child,
@@ -18,4 +18,5 @@ commits an offence and is liable on conviction on indictment to imprisonment for
 (c) references to an indecent photograph include an indecent film, a copy of an indecent photograph or film, and an indecent photograph comprised in a film;
 (d) photographs (including those comprised in a film) shall, if they show children and are indecent, be treated as indecent photographs of children and so as respects pseudo-photographs; and
 (e) a person is to be regarded as distributing an indecent photograph or pseudo-photograph if he parts with possession of it to, or exposes or offers it for acquisition by, another person.
-(4) If the impression conveyed by a pseudo-photograph is that the person shown is a child, the pseudo-photograph shall be treated for the purposes of this section as showing a child and so shall a pseudo-photograph where the predominant impression conveyed is that the person shown is a child notwithstanding that some of the physical characteristics shown are those of an adult.
+(4) If the impression conveyed by a pseudo-photograph is that the person shown is a child, the pseudo-photograph shall be treated for the purposes of this section as showing a child and so shall a pseudo-photograph where the predominant
+impression conveyed is that the person shown is a child notwithstanding that some of the physical characteristics shown are those of an adult.
