@@ -1,0 +1,3 @@
+# 228A. Termination and re-instatement
+228A.(1) Where a segregated portfolio has no segregated portfolio assets or liabilities of the segregated portfolio company attributable to it, the segregated portfolio company may by resolution of its directors (or such other authority as may be provided for in, and subject to the provisions of, its articles of association) terminate such segregated portfolio.
+(2) A segregated portfolio company may by resolution of its directors (or such other authority as may be provided for in, and subject to the provisions of, its articles of association) reinstate a segregated portfolio which has been terminated under subsection (1).

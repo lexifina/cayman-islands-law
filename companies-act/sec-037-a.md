@@ -1,0 +1,26 @@
+# 37A. Treasury shares
+37A. (1) Shares that have been purchased or redeemed by a company or surrendered to the company pursuant to sections 37 or 37B shall not be treated as cancelled pursuant to sections 37(3)(g) or 37B(2) but shall be classified as treasury shares and sections 37(4), 37(5)(d) and 37B(2) shall not apply to such shares at the time of such purchase, redemption or surrender, if --
+(a) the memorandum and articles of association of the company do not prohibit it from holding treasury shares;
+(b) the relevant provisions of the memorandum and articles of association (if any) are complied with; and
+(c) the company is authorised in accordance with the company's articles of association or by a resolution of the directors to hold such shares in the name of the company as treasury shares prior to the purchase, redemption or surrender of such shares.
+(2) Shares held by a company pursuant to subsection (1) shall continue to be classified as treasury shares until such shares are either cancelled or transferred pursuant to subsection (3).
+(3) A company that holds treasury shares may at any time --
+(a) cancel the shares in accordance with the provisions of the company's articles of association or (in the absence of any applicable provisions in the company's articles of association) by a resolution of the directors, and if so cancelled the amount of the company's issued share capital shall be diminished by the nominal or par value of those shares accordingly but the company's authorised share capital shall not be reduced and sections 37(4), 37(5)(d) and 37B(2) shall apply as if the shares had been purchased, redeemed or surrendered as at the date of cancellation; or
+(b) transfer the shares to any person, whether or not for valuable consideration (including at a discount to the nominal or par value of such shares).
+(4) A sum equal to the consideration (if any) received by the company pursuant to the transfer of a treasury share made in accordance with subsection (3)(b) (such consideration referred to as the "transfer consideration") shall be applied in the following manner --
+(a) to the extent that any payment out of capital was made with respect to the purchase or redemption of the share being transferred, there shall be credited to the company's share capital an amount equal to the lesser of --
+(i) the amount of such payment out of capital; and
+(ii) the transfer consideration received in respect of such share;
+(b) subject to subsection (5), to the extent that any payment out of share premium was made with respect to the purchase or redemption of the share being transferred, there shall be credited to the company's share premium an amount equal to the lesser of --
+(i) the amount of such payment out of share premium; and
+(ii) the balance of the transfer consideration received in respect of such share after applying subsection (4)(a); and
+(c) subject to subsection (5), the balance of the transfer consideration received in respect of such share after applying subsection (4)(a) and (b) shall be credited to the company's profit and loss account.
+(5) Notwithstanding the provisions of subsection (4)(b) and (c) but subject to subsection (4)(a), so long as the company shall be able to pay its debts as they fall due in the ordinary course of business immediately following the transfer of a treasury share in accordance with subsection (3)(b), the directors may by resolution determine that all or any part of the transfer consideration received shall be transferred to the company's profit and loss account, share premium account or share capital (or any combination of the foregoing) in such proportions as the directors may (in their sole and absolute discretion but subject to any express contrary provision in the articles of association of the company) determine.
+(6) Notwithstanding subsection (7)(b), a treasury share may be transferred by the company and the provisions of this Law and (subject to any specific provisions with respect to the transfer of treasury shares) the memorandum and articles that apply to the transfer of shares shall apply to the transfer of treasury shares.
+(7) For so long as a company holds treasury shares --
+(a) the company shall be entered in the register of members as holding those shares;
+(b) notwithstanding paragraph (a) --
+(i) the company shall not be treated as a member for any purpose and shall not exercise any right in respect of the treasury shares, and any purported exercise of such a right shall be void; and
+(ii) a treasury share shall not be voted, directly or indirectly, at any meeting of the company and shall not be counted issued shares at any given time, whether for the purposes of the company's articles of association or this Law; and
+(c) no dividend may be declared or paid, and no other distribution (whether in cash or otherwise) of the company's assets (including any distribution of assets to members on a winding up) may be made to the company, in respect of a treasury share.
+(8) Nothing in subsection (7) prevents an allotment of shares as fully paid bonus shares in respect of a treasury share and shares allotted as fully paid bonus shares in respect of a treasury share shall be treated as treasury shares.
