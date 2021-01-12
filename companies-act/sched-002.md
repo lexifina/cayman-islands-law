@@ -11,18 +11,18 @@ accrued due during the four months immediately preceding the commencement of the
 3. Where a contract of employment has been terminated as a consequence of the company going into liquidation, any sum due by the company to any former employee in respect of:
 (a) severance pay; and
 (b) earned vacation leave.
-4. Any sum payable to a workman in respect of compensation pursuant to the Workmen's Compensation Law (1996 Revision).
+4. Any sum payable to a workman in respect of compensation pursuant to the Workmen's Compensation Act (1996 Revision).
 5. An employee may claim in the liquidation as an ordinary creditor in respect of any other sum due to that person pursuant to or by virtue of the breach of that person's contract of employment or any tortious claim against the company.
-6. The words and expressions used in paragraphs 1 and 2 have the meanings ascribed to them by the Labour Law (2011 Revision).
+6. The words and expressions used in paragraphs 1 and 2 have the meanings ascribed to them by the Labour Act (2021 Revision).
 Category 2: Debts due to bank depositors
 1. Any sum due to eligible depositors who have deposits with a company which --
 (a) is incorporated in the Islands; and
-(b) held an "A" licence issued under the Banks and Trust Companies Law (2020 Revision),
+(b) held an "A" licence issued under the Banks and Trust Companies Act (2021 Revision),
 and which does not exceed the deposit limit.
 2. The following depositors are not eligible depositors --
 (a) a person who holds or is considered to hold a deposit after the presentation of the petition for the winding up of the bank or the commencement of the voluntary winding up of the bank (except in the case of the death of the owner of the deposit); and
 (b) the following persons making deposits as --
-(i) a person licensed under section 6(1) of the Banks and Trust Companies Law (2020 Revision);
+(i) a person licensed under section 6(1) of the Banks and Trust Companies Act (2021 Revision);
 (ii) a person authorised, licensed or recognised as a bank or deposit holder in a country or territory outside the Islands;
 (iii) a person who, in the opinion of the Court, has any responsibility for, or may have profited, or may profit, directly or indirectly, from the winding up;
 (iv) a person who was, at the date of presentation of the petition for the winding up of the bank or the commencement of the voluntary winding up of the bank, a director, controller or manager of the bank or who, in the opinion of the court exercised such functions;
@@ -34,12 +34,13 @@ and which does not exceed the deposit limit.
 (b) the ownership of a deposit in joint names shall be deemed to be divided equally between the joint depositors;
 (c) the ownership of a deposit in the name of a partnership shall be deemed to be divided equally among the partners;
 (d) a deposit which is a client account, and which is designated as such, shall be treated as a separate deposit, made by the client of the depositor, of amounts corresponding to the amount to which such client is entitled; and
-(e) the amount of each eligible deposit shall be reduced by the amount of any liability of the depositor to the bank in respect of which a right of set-off existed at the date of the presentation of the petition for the winding up of the bank, or the commencement of the voluntary winding up of the bank.
+(e) the amount of each eligible deposit shall be reduced by the amount of any liability of the depositor to the bank in respect of which a right of set-off
+existed at the date of the presentation of the petition for the winding up of the bank, or the commencement of the voluntary winding up of the bank.
 Category 3: Taxes due to the Government
-1. Sums due in respect of duty and penalties payable under the Customs and Border Control Law, 2018 [Law 34 of 2018].
-2. Sums due in respect of fees payable under this Law.
-3. Sums due in respect of duty and penalties payable under the Stamp Duty Law (2019
+1. Sums due in respect of duty and penalties payable under the Customs and Border Control Act (2021 Revision).
+2. Sums due in respect of fees payable under this Act.
+3. Sums due in respect of duty and penalties payable under the Stamp Duty Act (2019
 Revision).
 4. Sums due in respect of licence fees payable under the regulatory laws.
 5. Sums due in respect of taxes payable under the Tourist Accommodation (Taxation)
-Law (2013 Revision).
+Act (2013 Revision).

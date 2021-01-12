@@ -1,7 +1,7 @@
 # 40A. Branch registers of members
 40A.(1) An exempted company may cause to be kept in any country or territory one or more branch registers of such category or categories of members as the exempted company may determine from time to time.
 (2) A branch register is deemed to be part of the exempted company's register of members.
-(3) Subject to subsection (6), a branch register shall be kept in the same manner in which a principal register is by this Law required or permitted to be kept.
+(3) Subject to subsection (6), a branch register shall be kept in the same manner in which a principal register is by this Act required or permitted to be kept.
 (4) The exempted company shall cause to be kept at the place where the exempted company's principal register is kept a duplicate of any branch register duly entered up from time to time.
 (5) If default is made in complying with subsection (4) within twenty-one days after --
 (a) establishing a branch register; or

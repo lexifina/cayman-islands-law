@@ -1,4 +1,4 @@
 # 37B. Surrender of shares
 37B. (1) Subject to any express provisions of the company's memorandum or articles of association to the contrary, a company may accept the surrender for no consideration of any fully paid share (including a redeemable share) unless, as a result of the surrender, there would no longer be any issued shares of the company other than shares held as treasury shares.
 (2) Subject to section 37A, any shares surrendered under subsection (1) shall be treated as cancelled on surrender, and the amount of the company's issued share capital shall be diminished by the nominal value of those shares accordingly; but the surrender of shares by a member is not to be taken as reducing the amount of the company's authorised share capital.
-(3) This section is without prejudice to any right or power of a company arising under this Law or otherwise to accept the surrender of a share (not being a fully paid share) in lieu of forfeiture.
+(3) This section is without prejudice to any right or power of a company arising under this Act or otherwise to accept the surrender of a share (not being a fully paid share) in lieu of forfeiture.

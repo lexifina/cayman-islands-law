@@ -4,7 +4,7 @@ Table A
 Regulations for Management of a Company Limited by Shares
 Preliminary
 1. (1) In these regulations --
-"Law" means the Companies Law (2020 Revision).
+"Law" means the Companies Act (2021 Revision).
 (2) Where any provision of the Law is referred to, the reference is to that provision as modified by any law for the time being in force.
 (3) Unless the context otherwise requires, expressions defined in the Law or any statutory modification thereof in force at the date at which these regulations become binding on the company, shall have the meanings so defined.
 Shares
@@ -122,7 +122,8 @@ Disqualification of Directors
 (b) becomes bankrupt;
 (c) is found to be or becomes of unsound mind;
 (d) resigns that person's office by notice in writing to the company; or
-(e) is directly or indirectly interested in any contract with the company or participates in the profits of any contract with the company:
+(e) is directly or indirectly interested in any contract with the company or
+participates in the profits of any contract with the company:
 Provided however, that a director shall not vacate that person's office by reason of that person being a member of any corporation which has entered into contract with or done any work for the company if that person has declared the nature of that person's interest at the first meeting of the directors of the company held after that person became interested in the contract, but the director shall not vote in respect of any such contract or work or any matter arising thereout, and if that person does so vote that person's vote shall not be counted.
 Rotation of Directors
 72. At the first ordinary general meeting of the company the whole of the directors shall retire from office, and at the ordinary general meeting in every subsequent year one- third of the directors for the time being, or, if their number is not three or a multiple of three, then the number nearest one-third, shall retire from office.

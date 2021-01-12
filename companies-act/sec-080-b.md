@@ -1,5 +1,5 @@
 # 80B. Obligations for companies designated under section 80
-80B.A company designated pursuant to section 80 that is not registered pursuant to the Non-Profit Organisations Law (2020 Revision) shall --
+80B.A company designated pursuant to section 80 that is not registered pursuant to the Non-Profit Organisations Act (2020 Revision) shall --
 (a) file with the Registrar, in the form specified by the Registrar, an annual return confirming the objects and activities of the company;
 (b) in the manner specified by the Registrar, notify the Registrar of any change in --
 (i) the objects or activities of the company; or
