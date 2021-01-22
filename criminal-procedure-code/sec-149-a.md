@@ -3,8 +3,8 @@
 (2) If the person is convicted on the indictment, the Grand Court --
 (a) shall consider whether the conditions specified in section 88A(1) were satisfied; and
 (b) if they were satisfied,
-it shall state to him the substance of the summary offence and ask him whether he pleads guilty or not guilty.
-(3) If the person pleads guilty, the Grand Court shall convict him, but may only deal with him in respect of that offence in the manner in which a Summary Court could have dealt with him.
+it shall state to the person the substance of the summary offence and ask the person whether that person pleads guilty or not guilty.
+(3) If the person pleads guilty, the Grand Court shall convict that person, but may only deal with that person in respect of that offence in the manner in which a Summary Court could have dealt with that person.
 (4) If the person does not plead guilty, the Grand Court shall remit the matter to the Summary Court in respect of the offence except as provided by subsection (5).
 (5) If the prosecution informs the Grand Court that they will not submit evidence on the charge relating to the summary offence, the Grand Court shall dismiss it.
 (6) The Grand Court shall inform the clerk of the Summary Court of the outcome of any proceedings under this section.
@@ -15,4 +15,4 @@ it shall state to him the substance of the summary offence and ask him whether h
 (ii) direct that no further proceedings in relation to the offence are to be undertaken,
 and the proceedings before the Grand Court in relation to the offence shall thereafter be disregarded for all purposes.
 (8) A notice under subsection (7) shall include particulars of any direction given under paragraph (b)(i) of that subsection in relation to the offence.
-(9) The references to the clerk of the Summary Court in this section are to be construed in accordance with section 10 of the Summary Jurisdiction Law (2019 Revision).
+(9) The references to the clerk of the Summary Court in this section are to be construed in accordance with section 10 of the Summary Jurisdiction Act (2019 Revision).
