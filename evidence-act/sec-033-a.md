@@ -1,5 +1,5 @@
-# 33A. Use documents to refresh memory
-33A.(1) A person giving oral evidence in criminal proceedings about any matter may, at any stage in the course of doing so, refresh his memory of it from a document made or verified by him at an earlier time if --
+# 33A. Use of documents to refresh memory
+33A.(1) A person giving oral evidence in criminal proceedings about any matter may, at any stage in the course of doing so, refresh such person's memory of it from a document made or verified by such person at an earlier time if --
 (a) that person states in the person's oral evidence that the document records the person's recollection of the matter at that earlier time; and
 (b) that person's recollection of the matter is likely to have been significantly better at that time than it is at the time of the person's oral evidence.
 (2) Where --

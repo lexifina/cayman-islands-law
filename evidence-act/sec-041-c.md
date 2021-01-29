@@ -7,7 +7,7 @@
 (b) the notice has not been withdrawn.
 (3) In subsection (2)(a) "relevant arrangements" means arrangements for implementing the measure in question which cover the witness and the proceedings in question.
 (4) The withdrawal of a notice under that subsection relating to a special measure shall not affect the availability of that measure in relation to a witness if a special measures direction providing for that measure to apply to the witness's evidence has been made by the court before the notice is withdrawn.
-(5) The Cabinet may by order make such amendments of this Part as he considers appropriate for altering the special measures which, in accordance with subsection (1)(a) or (b), are available in relation to a witness eligible for
+(5) The Cabinet may by order make such amendments of this Part as the Cabinet considers appropriate for altering the special measures which, in accordance with subsection (1)(a) or (b), are available in relation to a witness eligible for
 assistance by virtue of section 41A or, as the case may be, section 41B, whether --
 (a) by modifying the provisions relating to any measure for the time being available in relation to such a witness;
 (b) by the addition --

@@ -15,7 +15,7 @@ in relation to the accused, or if there is more than one, in relation to each of
 (b) refusing an application for, or for the variation or discharge of; or
 (c) discharging,
 a special measures direction and, if it is a court of summary jurisdiction, the magistrate shall cause the reasons to be entered in the register of its proceedings.
-(6) Rules of court may make provision --
+(6) Rules of Court may make provision --
 (a) for uncontested applications to be determined by the court without a hearing;
 (b) for preventing the renewal of an unsuccessful application for a special measures direction except where there has been a material change of circumstances;
 (c) for expert evidence to be given in connection with an application for, or for varying or discharging, such a direction; and
