@@ -9,11 +9,8 @@ The required particulars are --
 (e) the date of execution of the memorandum of association;
 (f) the date of filing of the memorandum of association;
 (g) the number assigned to the company;
-(h) in the case of a company limited by guarantee or a company that has no
-limit placed on the liability of its members --
-(i) a statement that the company is limited by guarantee or is unlimited,
-as the case may be; and
-(ii) the omission of any of the particulars specified in this Schedule which
-are irrelevant or inappropriate;
+(h) in the case of a company limited by guarantee or a company that has no limit placed on the liability of its members --
+(i) a statement that the company is limited by guarantee or is unlimited, as the case may be; and
+(ii) the omission of any of the particulars specified in this Schedule which are irrelevant or inappropriate;
 (i) the nature of the business; and
 (j) the date of the end of the company's financial year.

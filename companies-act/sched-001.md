@@ -4,7 +4,7 @@ Table A
 Regulations for Management of a Company Limited by Shares
 Preliminary
 1. (1) In these regulations --
-"Law" means the Companies Act (2021 Revision).
+"Law" means the Companies Act (2022 Revision).
 (2) Where any provision of the Law is referred to, the reference is to that provision as modified by any law for the time being in force.
 (3) Unless the context otherwise requires, expressions defined in the Law or any statutory modification thereof in force at the date at which these regulations become binding on the company, shall have the meanings so defined.
 Shares
@@ -93,10 +93,12 @@ Votes of Members
 59. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed, or a notarially certified copy of that power or authority shall be deposited at the registered office of the company not less than forty-eight hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, and in default the instrument of proxy shall not be treated as valid.
 60. An instrument appointing a proxy may be in the following form or any other form approved by the directors --
 Company Limited
-I, , of being a member of the
+I, , of being a member of
+the
 Company Limited hereby appoint of
-as my proxy, to vote for me and on my behalf at the (ordinary or extraordinary, as the case may be) general meeting of the company to be held on the
-day of , 20 , and at any adjournment thereof.
+as my proxy, to vote for me and on my behalf at the (ordinary or extraordinary, as
+the case may be) general meeting of the company to be held on the day of ,
+20 , and at any adjournment thereof.
 Signed this day of , 20 .
 61. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 Corporations Acting by Representatives at Meetings

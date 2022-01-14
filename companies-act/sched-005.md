@@ -1,5 +1,6 @@
 # SCHEDULE 5
-FEES (sections 26(3), 26(4), 41(2), 45(2), 169(1), 184(2), 199(1), 213(4) and 213(5))
+FEES
+(sections 26(3A), 26(4), 41(2), 45(2), 80A, 80B, 169(1), 184(2), 199(1), 213(4) and 213(5))
 (section 26(4))
 The fees payable upon the filing of a memorandum of association under section 26 are as follows --
 (a) in respect of a non-resident company --
@@ -10,11 +11,9 @@ The fees payable upon the filing of a memorandum of association under section 26
 (ii) with a registered capital exceeding $42,000, but not exceeding $820,000 a fee of $900;
 (iii) with a registered capital exceeding $820,000 but not exceeding $1,640,000, a fee of $1,884; and
 (iv) with a registered capital exceeding $1,640,000, a fee of $2,468;
-(ba) in respect of a special economic zone company a fee equal to the lowest
-band of the fee payable upon filing of a memorandum of articles of association by an exempted company as set out in paragraph (b)(i); and
+(ba) in respect of a special economic zone company a fee equal to the lowest band of the fee payable upon filing of a memorandum of articles of association by an exempted company as set out in paragraph (b)(i); and
 (c) in respect of any other company --
-(i) with no registered capital or a registered capital not exceeding
-$42,000, a fee of $300; and
+(i) with no registered capital or a registered capital not exceeding $42,000, a fee of $300; and
 (ii) with a registered capital exceeding $42,000, a fee of $500.
 PART 1A The fee payable for the inspection of the register under section 26(3A) is $50.
 (section 41(2))
@@ -25,7 +24,8 @@ The fees payable by a company, other than an exempted company, in January of eac
 (b) in the case of any other company --
 (i) with no registered capital, or a registered capital not exceeding $42,000, an annual fee of $300; and
 (ii) with a registered capital exceeding $42,000, an annual fee of $500.
-(section 45(1)) The fees payable under section 45(2) on an increase of capital shall be in the case of --
+(section 45(1))
+The fees payable under section 45(2) on an increase of capital shall be in the case of --
 (a) an exempted company which has a capital divided into shares, $500;
 (b) an exempted company which has not a capital divided into shares, $500;
 (c) a company other than an exempted company which has a capital divided

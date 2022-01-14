@@ -35,10 +35,11 @@ No. Section Description of breach
 12. the competent authority under section 253(1A). 13. 253(1A)(a)(i) Failure to provide the Corporate Service Provider or the
 14. Registrar with written confirmation of exemption under
 15. s.245(1), and specifying the paragraph under s. 245(1) that provides for the exemption.
-255(1) Failure of a company to give notice requesting 255(2) confirmation of a change under section 255(1) to a 256(1) registrable person as soon as reasonably practicable after the company becomes aware of a relevant 256(2) change with respect to a registrable person. 256(3) Failure of a company that receives confirmation of a relevant change to instruct the corporate services provider or the Registrar to enter the change in the company's beneficial ownership register in accordance with section 255(2).
-Failure of the corporate services provider to give notice of its opinion to a company if it is of the opinion that the company has failed to comply with section 253 or 255 without reasonable excuse, or has made a statement that is false, deceptive or misleading in accordance with section 256(1).
-Failure of a company to provide the corporate services provider or the Registrar with a response to a notice under section 256(2).
-Failure of a corporate services provider to --
+255(1) Failure of a company to give notice requesting confirmation of a change under section 255(1) to a registrable person as soon as reasonably practicable after the company becomes aware of a relevant change with respect to a registrable person.
+255(2) Failure of a company that receives confirmation of a relevant change to instruct the corporate services provider or the Registrar to enter the change in the company's beneficial ownership register in accordance with section 255(2).
+256(1) Failure of the corporate services provider to give notice of its opinion to a company if it is of the opinion that the company has failed to comply with section 253 or 255 without reasonable excuse, or has made a statement that is false, deceptive or misleading in accordance with section 256(1).
+256(2) Failure of a company to provide the corporate services provider or the Registrar with a response to a notice under section 256(2).
+256(3) Failure of a corporate services provider to --
 (a) issue a restrictions notice; and
 (b) send a copy of the notice to the competent authority within two weeks,
 where the registrable person does not comply with the obligations under section 256(3).
