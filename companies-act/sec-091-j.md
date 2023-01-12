@@ -1,0 +1,15 @@
+# 91J. Provisions for facilitating reconstruction and amalgamation of companies
+91J. (1) Where an application is made to the Court under section 91I for the sanctioning of a compromise or arrangement proposed between a company and any such persons as are specified in that section, and it is shown to the Court that the compromise or arrangement has been proposed for the purpose of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of any two or more companies, and that under the scheme the whole or any part of the undertaking or the property of any company concerned in the scheme (in this section referred to as "a transferor company") is to be transferred to another company (in this section referred to as "the transferee company") the Court, may either by the order sanctioning the compromise or arrangement or by any subsequent order make provision for --
+(a) the transfer to the transferee company of the whole or any part of the undertaking and of the property or liabilities of any transferor company;
+(b) the allotting or appropriation by the transferee company of any shares, debentures, policies, or other like interests in that company which under the compromise or arrangement are to be allotted or appropriated by that company to or for any person;
+(c) the continuation by or against the transferee company of any legal proceedings pending by or against any transferor company;
+(d) the dissolution, without winding up, of any transferor company;
+(e) the provisions to be made for any person who within such time and in such manner as the Court directs dissents from the compromise or arrangement; and
+(f) such incidental, consequential and supplemental matters as are necessary to secure that the reconstruction or amalgamation is fully and effectively carried out.
+(2) Where an order under this section provides for the transfer of property or liabilities, that property shall, by virtue of the order, be transferred to and vest in, and those liabilities shall, by virtue of the order, be transferred to and become the liabilities of, the transferee company, and any such property shall, if the order so directs, be freed from any charge which is, by virtue of the compromise or arrangement, to cease to have effect.
+(3) Where an order is made under this section, every company in relation to which the order is made shall cause a copy thereof to be delivered to the Registrar for registration within seven days after the making of the order, and if default is made in complying with this subsection, the company and every officer of the company who is in default shall be liable to a default fine.
+(4) In this section --
+"property" includes property, rights and powers of every description;
+"liabilities" includes duties; and
+"transferee company" means any company or body corporate established in the Islands or in any other jurisdiction.
+Winding up by the Court

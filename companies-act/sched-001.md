@@ -4,7 +4,7 @@ Table A
 Regulations for Management of a Company Limited by Shares
 Preliminary
 1. (1) In these regulations --
-"Law" means the Companies Act (2022 Revision).
+"Law" means the Companies Act (2023 Revision).
 (2) Where any provision of the Law is referred to, the reference is to that provision as modified by any law for the time being in force.
 (3) Unless the context otherwise requires, expressions defined in the Law or any statutory modification thereof in force at the date at which these regulations become binding on the company, shall have the meanings so defined.
 Shares

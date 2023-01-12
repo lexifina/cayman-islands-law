@@ -1,0 +1,2 @@
+# 91H. Enforcement of creditors' security
+91H. Notwithstanding the presentation of a petition for the appointment of a restructuring officer or the appointment of a restructuring officer by the Court under section 91B or 91C, a creditor who has security over the whole or part of the assets of the company is entitled to enforce the creditor's security without the leave of the Court and without reference to the restructuring officer appointed under section 91B or 91C.

@@ -1,6 +1,6 @@
 # SCHEDULE 5
 FEES
-(sections 26(3A), 26(4), 41(2), 45(2), 80A, 80B, 169(1), 184(2), 199(1), 213(4) and 213(5))
+(sections 26(3A), 26(4), 41(2), 45(2), 55A(2), 80A, 80B, 169(1), 184(2), 199(1), 213(4) and 213(5))
 (section 26(4))
 The fees payable upon the filing of a memorandum of association under section 26 are as follows --
 (a) in respect of a non-resident company --
@@ -15,7 +15,8 @@ The fees payable upon the filing of a memorandum of association under section 26
 (c) in respect of any other company --
 (i) with no registered capital or a registered capital not exceeding $42,000, a fee of $300; and
 (ii) with a registered capital exceeding $42,000, a fee of $500.
-PART 1A The fee payable for the inspection of the register under section 26(3A) is $50.
+PART 1A
+The fee payable for the inspection of the register under section 26(3A) is $50.
 (section 41(2))
 The fees payable by a company, other than an exempted company, in January of each year after the year of its registration, to the Registrar under section 41(2) are as follows --
 (a) in the case of a non-resident company --

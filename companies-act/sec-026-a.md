@@ -1,5 +1,5 @@
 # 26A. Registrar to provide information
-26A. (1) The Registrar shall, upon request in writing by an entity under subsection (2), provide any information required to discharge any function or exercise any power, under the following Acts --
+26A.(1) The Registrar shall, upon request in writing by an entity under subsection (2), provide any information required to discharge any function or exercise any power, under the following Acts --
 (a) the Anti-Corruption Act (2019 Revision);
 (b) the Monetary Authority Act (2020 Revision);
 (c) the Proceeds of Crime Act (2020 Revision);

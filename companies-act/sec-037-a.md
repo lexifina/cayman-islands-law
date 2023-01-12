@@ -21,6 +21,6 @@
 (a) the company shall be entered in the register of members as holding those shares;
 (b) notwithstanding paragraph (a) --
 (i) the company shall not be treated as a member for any purpose and shall not exercise any right in respect of the treasury shares, and any purported exercise of such a right shall be void; and
-(ii) a treasury share shall not be voted, directly or indirectly, at any meeting of the company and shall not be counted issued shares at any given time, whether for the purposes of the company's articles of association or this Act; and
+(ii) a treasury share shall not be voted, directly or indirectly, at any meeting of the company and shall not be counted issued shares at any given time, whether for the purposes of the company's articles of association or this Law; and
 (c) no dividend may be declared or paid, and no other distribution (whether in cash or otherwise) of the company's assets (including any distribution of assets to members on a winding up) may be made to the company, in respect of a treasury share.
 (8) Nothing in subsection (7) prevents an allotment of shares as fully paid bonus shares in respect of a treasury share and shares allotted as fully paid bonus shares in respect of a treasury share shall be treated as treasury shares.

@@ -38,7 +38,7 @@ and which does not exceed the deposit limit.
 existed at the date of the presentation of the petition for the winding up of the bank, or the commencement of the voluntary winding up of the bank.
 Category 3: Taxes due to the Government
 1. Sums due in respect of duty and penalties payable under the Customs and Border Control Act (2022 Revision).
-2. Sums due in respect of fees payable under this Act.
+2. Sums due in respect of fees payable under this Law.
 3. Sums due in respect of duty and penalties payable under the Stamp Duty Act (2019
 Revision).
 4. Sums due in respect of licence fees payable under the regulatory laws.
