@@ -11,10 +11,12 @@ commits an offence and is liable on conviction on indictment to imprisonment for
 (3) For the purposes of this section --
 (a) references to a photograph include --
 (i) the negative as well as the positive version; and
-(ii) data stored on a computer disc or by other electronic means which are capable of conversion into a photograph;
+(ii) data stored on a computer disc or by other electronic means which
+are capable of conversion into a photograph;
 (b) references to an indecent pseudo-photograph include --
 (i) a copy of an indecent pseudo-photograph; and
-(ii) data stored on a computer disc or by other electronic means which are capable of conversion into a pseudo-photograph;
+(ii) data stored on a computer disc or by other electronic means which
+are capable of conversion into a pseudo-photograph;
 (c) references to an indecent photograph include an indecent film, a copy of an indecent photograph or film, and an indecent photograph comprised in a film;
 (d) photographs (including those comprised in a film) shall, if they show children and are indecent, be treated as indecent photographs of children and so as respects pseudo-photographs; and
 (e) a person is to be regarded as distributing an indecent photograph or pseudo-photograph if the person parts with possession of it to, or exposes or offers it for acquisition by, another person.

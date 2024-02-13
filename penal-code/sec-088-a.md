@@ -1,5 +1,5 @@
 # 88A. Intentional harassment, alarm or distress
-88A. (1) A person who, with intent to cause a person harassment, alarm or distress --
+88A.(1) A person who, with intent to cause a person harassment, alarm or distress --
 (a) uses threatening, abusive or insulting words or behaviour, or disorderly behaviour; or
 (b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
 thereby causing that or another person harassment, alarm or distress commits an offence and is liable to imprisonment for three years or, if the offence is committed in the night, to imprisonment for four years.

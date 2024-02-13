@@ -1,5 +1,5 @@
 # 88C. Threat to kill
-88C.(1) A person who without lawful excuse makes to another person a threat, intending that person would fear it would be carried out, to --
+88C. (1) A person who without lawful excuse makes to another person a threat, intending that person would fear it would be carried out, to --
 (a) kill; or
 (b) cause serious harm to,
 that person or a third person commits an offence and is liable to imprisonment for ten years.

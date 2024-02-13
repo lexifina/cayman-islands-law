@@ -1,5 +1,5 @@
 # 45B. Interim sexual harm prevention order
-45B.(1) The Director of Public Prosecutions, after consultation with the Royal Cayman Islands Police Service or any other relevant agency may apply to a court for an interim sexual harm prevention order.
+45B. (1) The Director of Public Prosecutions, after consultation with the Royal Cayman Islands Police Service or any other relevant agency may apply to a court for an interim sexual harm prevention order.
 (2) Where a person, including a young person, of or over the age of seventeen is charged with any offence of a sexual or indecent nature and the court is satisfied on a balance of probabilities that it is necessary for the purpose of --
 (a) protecting the public or a particular member of the public from sexual harm from that person; or
 (b) protecting children or vulnerable persons or a particular child or vulnerable person from sexual harm from that person,
