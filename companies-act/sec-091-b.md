@@ -1,7 +1,7 @@
 # 91B. Appointment of a restructuring officer
 91B.(1) A company may present a petition to the Court for the appointment of a restructuring officer on the grounds that the company --
 (a) is or is likely to become unable to pay its debts within the meaning of section 93; and
-(b) intends to present a compromise or arrangement to its creditors (or classes thereof) either, pursuant to this Law, the law of a foreign country or by way of a consensual restructuring.
+(b) intends to present a compromise or arrangement to its creditors (or classes thereof) either, pursuant to this Act, the law of a foreign country or by way of a consensual restructuring.
 (2) A petition under subsection (1) may be presented by a company acting by its directors, without a resolution of its members or an express power in its articles of association.
 (3) The Court may, on hearing a petition under subsection (1) --
 (a) make an order appointing a restructuring officer;

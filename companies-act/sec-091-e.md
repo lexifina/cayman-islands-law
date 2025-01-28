@@ -5,7 +5,8 @@
 (c) a creditor of the company, including a contingent or prospective creditor;
 (d) a contributory of the company; or
 (e) the Authority, in respect of any company which is carrying on a regulated
-business, may apply by way of summons to the Court for the variation or discharge of the order appointing the restructuring officer.
+business,
+may apply by way of summons to the Court for the variation or discharge of the order appointing the restructuring officer.
 (2) An application under subsection (1)(a) may be presented by a company acting by its directors without a resolution of its members or an express power in its articles of association.
 (3) The Court may, on hearing an application under subsection (1) --
 (a) vary the order appointing the restructuring officer;

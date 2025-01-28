@@ -22,7 +22,97 @@ Powers exercisable without sanction
 6. The power to convene meetings of creditors and contributories.
 7. The power to do all other things incidental to the exercise of that person's powers.
 SCHEDULE 4 (section 40B)
-APPROVED STOCK EXCHANGES The following are approved stock exchanges --
-American Stock Exchange Euronext Brussels NYSE Euronext
-(AMEX) Amman Stock Exchange Euronext Lisbon NYSE MKT LLC Athens Stock Exchange Euronext NV New Zealand Stock Exchange Australian Securities Euronext Paris OMX Nordic Exchange Exchange Barcelona Stock Exchange Frankfurt Stock Exchange Osaka Securities Exchange BATS Global Markets Fukuoka Stock Exchange Oslo Stock Exchange Berlin Stock Exchange The Gretai Securities Philadelphia Stock Market of Taiwan Exchange Bermuda Stock Exchange Hamburg-Hannover Stock Philippine Stock Exchange Exchange Bilbao Stock Exchange Helsinki Stock Exchange Prague Stock Exchange BM&F Bovespa Hong Kong Stock Riga Stock Exchange Exchange (including the BME Spanish Exchanges Growth Enterprise Market) Rio de Janeiro Stock Iceland Stock Exchange Exchange Bolsa de Comercio de São Paulo Stock Exchange Buenos Aires Indonesia Stock (Bovespa) Bolsa de Comercio de Exchange Saudi Stock Exchange Santiago Intercontinental Exchange (Tadawul) Bolsa de Valores de Shanghai Stock Exchange Caracas International Securities Shenzhen, S.E. Bolsa de Valores de Lima Exchange Shenzhen Stock Exchange Bolsa de Valores de Irish Stock Exchange Singapore Stock Exchange Colombia Johannesburg Stock (including Catalist) Borsa Italiana SPA Exchange SIX Swiss Exchange Korea Exchange Bombay Stock Exchange (including KOSPI and Stock Exchange of KOSDAQ Market Mauritius Borsa Istanbul Divisions) Stockholm Stock Exchange London Stock Exchange (including AIM) Luxembourg Stock Exchange
-Boston Stock Exchange Madrid Stock Exchange Stuttgart Stock Exchange Bucharest Stock Exchange Malta Stock Exchange SWX Stock Exchange Budapest Stock Exchange Mexican Stock Exchange Taiwan Stock Exchange Bursa Malaysia (including Montreal Stock Exchange Tallinn Stock Exchange the Main Market and the ACE Market) Moscow Exchange Tel Aviv Stock Exchange Chicago Board Options Exchange Munich Stock Exchange The Egyptian Exchange Chicago Stock Exchange Nagoya Stock Exchange The Stock Exchange of CME Group Thailand Tokyo Stock Exchange Colombo Stock Exchange NASDAQ Toronto Stock Exchange Copenhagen Stock NASDAQ Dubai Exchange Valencia Stock Exchange Cyprus Stock Exchange National Stock Exchange of Australia Vienna Stock Exchange Deutsche Borse National Stock Exchange of India Vilnius Stock Exchange Dusseldorf Stock New York Stock Exchange Exchange Warsaw Stock Exchange Eurex NYSE Arca Any stock exchange that the Registrar may from time to time designate as an approved stock exchange by way of a public notice which shall be gazetted.
+APPROVED STOCK EXCHANGES
+The following are approved stock exchanges --
+1. Amman Stock Exchange
+2. Athens Stock Exchange
+3. Australian Securities Exchange
+4. B3 S.A.
+5. BATS Global Markets
+6. Bermuda Stock Exchange
+7. BOAG Borsen AG
+8. Bolsa de Barcelona
+9. Bolsa de Bilbao
+10. Bolsa de Madrid
+11. Bolsa de Valencia
+12. Bolsa de Comercio de Buenos Aires
+13. Bolsa de Comercio de Santiago
+14. Bolsa de Valores de Caracas
+15. Bolsa de Valores de Lima
+16. Bolsa de Valores de Colombia
+17. Bolsa Mexicana de Valores (Mexican Stock Exchange)
+18. Bolsas y Mercados Espanoles
+19. Borsa Istanbul
+20. Borsa Italiana
+21. Borse Berlin
+22. Borse Frankfurt
+23. Borse Munchen
+24. Borse Stuttgart
+25. BSE Limited
+26. Bucharest Stock Exchange
+27. Budapest Stock Exchange
+28. Bursa Malaysia (including the Main Market and the ACE Market)
+29. Chicago Board Options Exchange
+30. CME Group
+31. Colombo Stock Exchange
+32. Cyprus Stock Exchange
+33. Deutsche Borse
+34. Dusseldorf Stock Exchange
+35. Eurex
+36. Euronext Brussels
+37. Euronext Dublin
+38. Euronext Lisbon
+39. Euronext NV
+40. Euronext Oslo Bor
+41. Euronext Paris
+42. Fukuoka Stock Exchange
+43. Hong Kong Exchange and Clearing (HKEX) (including Growth Enterprise
+Market (GEM))
+44. Indonesia Stock Exchange
+45. Intercontinental Exchange
+46. International Securities Exchange
+47. Johannesburg Stock Exchange
+48. Korea Exchange (including KOSPI and KOSDAQ Market Divisions)
+49. London Stock Exchange (including AIM)
+50. Luxembourg Stock Exchange
+51. Malta Stock Exchange
+52. Montreal Exchange
+53. Nagoya Stock Exchange
+54. Nasdaq
+55. Nasdaq Copenhagen (formerly known as Copenhagen Stock Exchange)
+56. Nasdaq Dubai
+57. Nasdaq Helsinki
+58. Nasdaq Iceland
+59. Nasdaq OMX Nordic
+60. Nasdaq PHLX
+61. Nasdaq Riga
+62. Nasdaq Stockholm
+63. Nasdaq Tallinn
+64. Nasdaq Vilnius
+65. National Stock Exchange of Australia
+66. National Stock Exchange of India
+67. New York Stock Exchange (NYSE)
+68. New Zealand Stock Exchange
+69. NYSE American
+70. NYSE Arca
+71. NYSE Chicago
+72. NYSE Euronext
+73. Osaka Exchange
+74. Philippine Stock Exchange
+75. Prague Stock Exchange
+76. Saudi Exchange (Tadawul)
+77. Shanghai Stock Exchange
+78. Shenzhen Stock Exchange
+79. Singapore Exchange (including Catalist)
+80. SIX Swiss Exchange
+81. Stock Exchange of Mauritius
+82. Taipei Exchange
+83. Taiwan Stock Exchange
+84. The Egyptian Exchange
+85. The Stock Exchange of Thailand
+86. Tokyo Stock Exchange
+87. Toronto Stock Exchange (including TSX Venture Exchange)
+88. Warsaw Stock Exchange
+89. Wiener Borse AG (Vienna Stock Exchange)
+90. Any stock exchange that the Registrar may from time to time designate as an
+approved stock exchange by way of notice published in the Gazette.
