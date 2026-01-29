@@ -10,7 +10,7 @@ Category 1: Debts due to employees
 3. Where a contract of employment has been terminated as a consequence of the company going into liquidation, any sum due by the company to any former employee in respect of:
 (a) severance pay; and
 (b) earned vacation leave.
-4. Any sum payable to a workman in respect of compensation pursuant to the Workmen's Compensation Act (1996 Revision).
+4. Any sum payable to a worker in respect of compensation pursuant to the Workmen's Compensation Act (1996 Revision).
 5. An employee may claim in the liquidation as an ordinary creditor in respect of any other sum due to that person pursuant to or by virtue of the breach of that person's contract of employment or any tortious claim against the company.
 6. The words and expressions used in paragraphs 1 and 2 have the meanings ascribed to them by the Labour Act (2021 Revision).
 Category 2: Debts due to bank depositors

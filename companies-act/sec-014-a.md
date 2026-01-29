@@ -1,0 +1,3 @@
+# 14A. Reduction supported by solvency statement
+14A.(1) A reduction of capital is supported by a solvency statement if the directors of the company make a solvency statement no more than thirty days before the date on which the special resolution for reducing share capital passed.
+(2) Any director who knowingly makes a solvency statement under this section without having reasonable grounds to believe that the company will be able to pay its debts in full as they fall due in the ordinary course of business commits an offence and is liable on summary conviction to a fine of ten thousand dollars and to imprisonment for two years.
