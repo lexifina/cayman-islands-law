@@ -2,6 +2,8 @@
 88A. (1) Where a Summary Court commits a person to the Grand Court for trial on indictment for an offence which may be tried either summarily or on indictment or a number of such offences, it may also commit the person for trial for any summary offence with which the person is charged and which --
 (a) is punishable with imprisonment or involves obligatory or discretionary disqualification from driving; and
 (b) arises out of circumstances which appear to the court to be the same as or connected with those giving rise to the offence, or one of the offences which may be tried either summarily or on indictment,
-whether or not evidence relating to that summary offence appears on the written statements in the case; and the trial of the summary offence shall then be treated as if the Summary Court had adjourned it under section 21 of the Summary Jurisdiction Act (2019 Revision) and had not fixed the time and place for its resumption.
+whether or not evidence relating to that summary offence appears on the written
+statements in the case; and the trial of the summary offence shall then be treated as if the Summary Court had adjourned it under section 21 of the Summary Jurisdiction Act (2025 Revision) and had not fixed the time and place for its
+resumption.
 (2) Where a Summary Court commits a person to the Grand Court for trial on indictment for a number of offences which may be tried either summarily or on indictment and exercises the power conferred by subsection (1) in respect of a summary offence, the Summary Court shall provide the Grand Court and the person who is committed for trial a notice stating which of the offences which may be tried either summarily or on indictment appear to the court to arise out of circumstances which are the same as or connected with those giving rise to the summary offence.
 (3) A Summary Court's decision to exercise the power conferred by subsection (1) shall not be subject to appeal.

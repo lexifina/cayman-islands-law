@@ -1,5 +1,5 @@
 # 18A. Service of witness summonses on designated public officers by electronic means
-18A. (1) Notwithstanding service of summonses in accordance with section 18; in any criminal proceedings where a designated public officer is required to attend court as a witness, a witness summons may be served on that public officer by electronic means, by sending the summons to an electronic address to which a document may be delivered and to which the public officer has been given access for use in the course of the public officer's employment.
+18A. (1) Notwithstanding service of summonses in accordance with section 18, in any criminal proceedings where a designated public officer is required to attend court as a witness, a witness summons may be served on that public officer by electronic means, by sending the summons to an electronic address to which a document may be delivered and to which the public officer has been given access for use in the course of the public officer's employment.
 (2) For the purposes of subsection (1), a designated public officer includes any of the following --
 (a) a police officer;
 (b) a customs officer;

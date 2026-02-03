@@ -15,4 +15,4 @@ it shall state to the person the substance of the summary offence and ask the pe
 (ii) direct that no further proceedings in relation to the offence are to be undertaken,
 and the proceedings before the Grand Court in relation to the offence shall thereafter be disregarded for all purposes.
 (8) A notice under subsection (7) shall include particulars of any direction given under paragraph (b)(i) of that subsection in relation to the offence.
-(9) The references to the clerk of the Summary Court in this section are to be construed in accordance with section 10 of the Summary Jurisdiction Act (2019 Revision).
+(9) The references to the clerk of the Summary Court in this section are to be construed in accordance with section 10 of the Summary Jurisdiction Act (2025 Revision).

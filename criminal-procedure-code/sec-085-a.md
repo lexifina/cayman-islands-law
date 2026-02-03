@@ -27,5 +27,5 @@ the court shall, if it considers it necessary in the interests of justice to do 
 (b) a summary offence punishable by imprisonment,
 in the notice under subsection (6), the court shall specify in that notice the Category A offence to which the offence which may be tried either summarily or on indictment, or summary offence punishable by imprisonment as the case may be, appears to the court to be related.
 (8) Where a matter has been transmitted to the Grand Court for hearing, it shall be first mentioned in the current session of the Grand Court for directions of the Court to be given.
-SECTION 86 Criminal Procedure Code (2021 Revision)
+SECTION 86 Criminal Procedure Code (2026 Revision)
 (9) Where a matter has been transmitted to the Grand Court under subsection (1) the provisions of Schedule 5 (which makes provision in relation to the dismissal of a matter transmitted to the Grand Court for trial) shall have effect.

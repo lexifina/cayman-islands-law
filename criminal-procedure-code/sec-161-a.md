@@ -6,11 +6,12 @@ but only if, in either case, the facts or evidence relating to the offence were 
 (2) Where a count charging an offence to which this section applies is included in an indictment, the offence shall be tried in the same manner as if it were an indictable offence; but the Grand Court may only deal with the person in respect of it in a manner in which a Summary Court could have dealt with that person.
 (3) The offences to which this section applies are --
 (a) common assault;
-(b) an offence under sections 78 to 81 of the Penal Code (2019 Revision);
-(c) an offence under section 216 of the Penal Code (2019 Revision);
-(d) an offence under section 241 of the Penal Code (2019 Revision) where the value does not exceed $5,000.00;
-(e) an offence under section 246(1) of the Penal Code (2019 Revision);
-(f) an offence under section 267(1) of the Penal Code (2019 Revision);
-(g) an offence under section 89 or 90 of the Traffic Act (2021 Revision); and
+(b) an offence under sections 78 to 81 of the Penal Code (2026 Revision);
+(c) an offence under section 216 of the Penal Code (2026 Revision);
+(d) an offence under section 241 of the Penal Code (2026 Revision) where the
+value does not exceed $5,000.00;
+(e) an offence under section 246(1) of the Penal Code (2026 Revision);
+(f) an offence under section 267(1) of the Penal Code (2026 Revision);
+(g) an offence under section 89 or 90 of the Traffic Act (2026 Revision); and
 (h) any summary offence specified under subsection (4).
 (4) The Cabinet may by Order specify any summary offence for the purposes of this section where that summary offence is punishable with imprisonment or involves obligatory or discretionary disqualification from driving.

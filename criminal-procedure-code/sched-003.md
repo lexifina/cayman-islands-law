@@ -13,7 +13,8 @@ less than 13 inches in length, and not more than 14 and not less than 8 inches i
 2. The commencement of an indictment shall be in the following form --
 IN THE GRAND COURT
 Criminal Side
-The Queen versus A.B. A.B. is charged with the following offence (offences) --
+The King versus A.B.
+A.B. is charged with the following offence (offences) --
 To Wit: Mode in which offences are to be charged
 3. (1) A description of the offence charged in an indictment, or where more than one
 offence is charged, of each offence so charged, shall be set out in a separate paragraph called a count.
@@ -45,34 +46,34 @@ Provided that in reading such indictment to the jury regard shall be had to sect
 SPECIMEN FORMS OF INDICTMENT
 1.
 STATEMENT OF OFFENCE
-Murder, contrary to section 181 of the Penal Code (2019 Revision)
+Murder, contrary to section 181 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A B. on the day of , at , murdered J.S. 2.
 STATEMENT OF OFFENCE
-Accessory after the fact to murder, contrary to section 195 of the Penal Code (2019 Revision)
+Accessory after the fact to murder, contrary to section 195 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A. B., well knowing that one H.C., did on the day of , at
 , murder C.C.
 did on the day of , at , and on other days
 thereafter receive, comfort, harbour, assist and maintain the said H.C.
 3.
-STATEMENT OF OFFENCE Manslaughter, contrary to section 180 of the Penal Code (2019 Revision)
+STATEMENT OF OFFENCE Manslaughter, contrary to section 180 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A. B., on the day of , at , unlawfully killed J.S. 4.
 STATEMENT OF OFFENCE
-Rape, contrary to section 127 of the Penal Code (2019 Revision) PARTICULARS OF OFFENCE
+Rape, contrary to section 127 of the Penal Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , had carnal knowledge of E. F.
 without her consent.
 5.
 STATEMENT OF OFFENCE
-Grievous bodily harm, contrary to section 203 of the Penal Code (2019 Revision)
+Grievous bodily harm, contrary to section 203 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , unlawfully did grievous harm to C.D.
 STATEMENT OF OFFENCE
-Wounding, contrary to section 203 of the Penal Code (2019 Revision) PARTICULARS OF OFFENCE
+Wounding, contrary to section 203 of the Penal Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , unlawfully wounded C.D.
 6.
-STATEMENT OF OFFENCE Cruelty to a child, contrary to section 225(1) of the Penal Code (2019 Revision)
+STATEMENT OF OFFENCE Cruelty to a child, contrary to section 225(1) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., between the day of , at being a person having
 responsibility for C.D., a child, wilfully assaulted, ill-treated, neglected, abandoned or
@@ -81,21 +82,21 @@ abandoned or exposed in a manner likely to cause the said child unnecessary suff
 injury to the said child's health.
 7.
 STATEMENT OF OFFENCE
-Theft, contrary to section 241 of the Penal Code (2019 Revision) PARTICULARS OF OFFENCE
+Theft, contrary to section 241 of the Penal Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , stole from M.N., ten yards of cloth.
 8.
 STATEMENT OF OFFENCE
-Robbery, contrary to section 242 of the Penal Code (2019 Revision) PARTICULARS OF OFFENCE
+Robbery, contrary to section 242 of the Penal Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , stole a watch from
 C.D., and, immediately at the time of doing so, and in order to do so, used force on the said
 C.D., or put the said C.D. in fear of being then and there subjected to force.
 9.
 STATEMENT OF OFFENCE
-First Count Theft, contrary to section 241 of the Penal Code (2019 Revision)
+First Count Theft, contrary to section 241 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , stole a bag, the property of C.D.
 STATEMENT OF OFFENCE
-Second Count Handling stolen goods contrary to section 260(1) of the Penal Code (2019 Revision)
+Second Count Handling stolen goods contrary to section 260(1) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , knowing or believing it to be stolen,
 dishonestly received a bag, or dishonestly undertook, assisted in or arranged for the
@@ -103,22 +104,22 @@ retention, removal, disposal or realisation thereof for the benefit of another p
 A.B., has been previously convicted of handling stolen goods on the day of .
 10.
 STATEMENT OF OFFENCE
-Burglary and theft contrary to sections 243(1)(b) and 241 of the Penal Code (2019 Revision)
+Burglary and theft contrary to sections 243(1)(b) and 241 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , entered the building known
 as as a trespasser and there stole one watch, the property of C.D.
 11 .
 STATEMENT OF OFFENCE
-Blackmail, contrary to section 259 of the Penal Code (2019 Revision) PARTICULARS OF OFFENCE
+Blackmail, contrary to section 259 of the Penal Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , with a view to gain for A.B. or
 another or with intent to cause loss to C.D., or another made an unwarranted demand with
 menaces from the said C.D., that is to say A.B. demanded $2,000 from the said C.D., under
 threat of accusing the said C.D., of having committed an infamous crime.
 12. STATEMENT OF OFFENCE Dishonestly obtaining property by deception, contrary to section 247 of the Penal
-Code (2019 Revision) PARTICULARS OF OFFENCE
+Code (2026 Revision) PARTICULARS OF OFFENCE
 A.B., on the day of , at , dishonestly by deception obtained
 from C.D., a motor car with intent permanently to deprive C.D. thereof.
-13. STATEMENT OF OFFENCE Conspiracy to commit an offence, contrary to section 321 of the Penal Code (2019 Revision)
+13. STATEMENT OF OFFENCE Conspiracy to commit an offence, contrary to section 321 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B. and C.D. on divers days between the day of , and the day of
 , at , conspired together and with other persons unknown to
@@ -128,46 +129,46 @@ business as jewellers at and that they were then willing and prepared to supply 
 jewellery to such persons.
 14.
 STATEMENT OF OFFENCE
-First Count Arson, contrary to section 267 of the Penal Code (2019 Revision)
+First Count Arson, contrary to section 267 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , wilfully and unlawfully set fire to a . dwelling house known as
-STATEMENT OF OFFENCE Second Count
-Damaging property, contrary to section 267 of the Penal Code (2019 Revision)
+STATEMENT OF OFFENCE
+Second Count Damaging property, contrary to section 267 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , without lawful excuse the property of C.D. intending to damaged a dwelling house known as
 damage such property.
 15.
 STATEMENT OF OFFENCES
-A B., Arson, contrary to section 267 of the Penal Code (2019 Revision) C.D. Counselling or procuring the said A.B., to commit the same offence.
-PARTICULARS OF OFFENCES
+A B., Arson, contrary to section 267 of the Penal Code (2026 Revision)
+C.D. Counselling or procuring the said A.B., to commit the same offence. PARTICULARS OF OFFENCES
 A. B., on the day of , at , wilfully and unlawfully set fire to
 a dwelling house known as . C.D., on the same day at , did
 counsel and procure the said A.B., to commit the said offence.
 16.
 STATEMENT OF OFFENCE
-Doing damage on unenclosed land contrary to section 279 of the Penal Code (2019 Revision)
+Doing damage on unenclosed land contrary to section 279 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , without lawful excuse entered upon
 private unenclosed land and maliciously damaged a coconut tree there growing.
 17.
 STATEMENT OF OFFENCE
-First Count Forgery contrary to section 285 of the Penal Code (2019 Revision)
+First Count Forgery contrary to section 285 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , made a false document with intent to defraud.
 STATEMENT OF OFFENCE
-Second Count Uttering a forged document, contrary to section 289 of the Penal Code (2019 Revision)
+Second Count Uttering a forged document, contrary to section 289 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , uttered a certain forged document
 purporting the same to be genuine and knowing the same to be forged and with intent to
 defraud.
 18.
 STATEMENT OF OFFENCE
-Uttering counterfeit coin, contrary to section 308 of the Penal Code (2019 Revision)
+Uttering counterfeit coin, contrary to section 308 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , uttered a counterfeit twenty-five
 cent piece knowing the same to be counterfeit.
 19.
-STATEMENT OF OFFENCE Perjury, contrary to section 101 of the Penal Code (2019 Revision)
+STATEMENT OF OFFENCE Perjury, contrary to section 101 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , being a witness upon the trial of an
 action in the Grand Court, in which one was plaintiff and one was
@@ -176,7 +177,7 @@ Street, on the day of .
 20.
 STATEMENT OF OFFENCE
 First Count Producing an obscene writing for the purpose of public distribution, contrary to
-section 157(1)(a) of the Penal Code (2019 Revision)
+section 157(1)(a) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 E.M., on the day of , at , made and published or caused to be
 made and published an obscene writing, the particulars of which are published with this
@@ -184,14 +185,14 @@ indictment. (Particulars to specify pages and lines complained of where necessar
 book).
 STATEMENT OF OFFENCE
 Second Count Importing an obscene writing for the purpose of public distribution, contrary to
-section 157(1)(b) of the Penal Code (2019 Revision)
+section 157(1)(b) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 E.M., on the day of , at , imported , for the
 purpose of distribution to the public an obscene writing, the particulars of which are
 published with this indictment.
 21.
 STATEMENT OF OFFENCE
-A.B., undischarged bankrupt obtaining credit, contrary to section 173 of the Bankruptcy Act (1997 Revision);
+A.B., undischarged bankrupt obtaining credit, contrary to section 173 of the Bankruptcy Act (2026 Revision);
 C.D., counselling and procuring the same offence
 PARTICULARS OF OFFENCES
 A.B., on the day of , at , being an undischarged bankrupt
@@ -200,13 +201,13 @@ H.S. that A.B. was an undischarged bankrupt.
 C.D., at the same time and place did aid, abet, counsel and procure A B., to commit the said offence.
 22.
 STATEMENT OF OFFENCE
-First Count False Accounting, contrary to section 255(1)(a) of the Penal Code (2019 Revision)
+First Count False Accounting, contrary to section 255(1)(a) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , dishonestly, with a view to gain for
 A.B. or other, falsified an account in a cash book, the property of C.D., purporting to show
 that on the said day one hundred dollars had been paid to L.M.
 STATEMENT OF OFFENCE
-Second Count False Accounting, contrary to section 255(1)(a) of the Penal Code (2019 Revision)
+Second Count False Accounting, contrary to section 255(1)(a) of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , dishonestly, with a view to gain for
 A.B. or another, omitted or concurred in omitting from an account in a cash book belonging
@@ -215,25 +216,25 @@ one hundred dollars from H.S.
 23.
 STATEMENT OF OFFENCE
 First Count Dishonestly obtaining property by deception contrary to section 247(1) of the Penal
-Code (2019 Revision)
+Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , dishonestly obtained ownership,
 possession or control of certain property, that is to say one hundred dollars entrusted to
 A.B. by H.S., in order that, the said A.B., might retain the same in safe custody.
 STATEMENT OF OFFENCE
 Second Count Dishonestly obtaining property by deception, contrary to section 247(1) of the Penal
-Code (2019 Revision)
+Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , dishonestly obtained ownership,
 possession or control of certain property, that is to say one hundred dollars entrusted to
 A.B. by H.S., in order that, the said A.B., might retain the same in safe custody.
 STATEMENT OF OFFENCE
-Third Count Dishonestly obtaining property contrary to section 247(1) of the Penal Code (2019 Revision)
+Third Count Dishonestly obtaining property contrary to section 247(1) of the Penal Code (2026 Revision)
 A.B., on the day of , at , dishonestly obtained ownership,
 possession or control of certain property, that is to say one hundred dollars received by
 A.B. from H.S., for the account of L.M.
 24.
-STATEMENT OF OFFENCE Libel, contrary to section 171 of the Penal Code (2019 Revision)
+STATEMENT OF OFFENCE Libel, contrary to section 171 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , published a defamatory libel
 concerning W.Y., in the form of a letter addressed to J.B., which said letter contained the
@@ -258,24 +259,24 @@ discovered and a warrant applied for against W.Y. for theft of W.Y.'s employers'
 and falsification of their books, W.Y. left Grand Cayman on a ship called the "Eagle",
 bound for Rio.
 3. On the day of , at , and other days in the year W.Y.
-kept a brothel at Bodden Town, contrary to section 140 of the Penal Code (2019 Revision)
+kept a brothel at Bodden Town, contrary to section 140 of the Penal Code (2026 Revision)
 AND A.B. says it was for the public benefit that the defamatory matters charged in the said indictment should be published by reason of the fact that W.Y. was, at the time of the publications thereof, a candidate for the public office of Membership of the Cayman Islands Parliament.
 26.
-REPLICATION TO THE PLEA OF JUSTIFICATION OF A. B. (See Form 25) H.S., Clerk of the Grand Court, joins issue on behalf of our Lady the Queen.
+REPLICATION TO THE PLEA OF JUSTIFICATION OF A. B. (See Form 25) H.S., Clerk of the Grand Court, joins issue on behalf of His Majesty the King.
 27.
 STATEMENT OF OFFENCE First Count
-Bankruptcy Offence, contrary to section 172 (a) of the Bankruptcy Act (1997 Revision)
+Bankruptcy Offence, contrary to section 172 (a) of the Bankruptcy Act (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., having been adjudged bankrupt on the day of , at , did
 not fully and truly discover to the trustee all A.B.'s property and how and to whom and for
 what consideration A.B. had disposed of a piano, part thereof.
 STATEMENT OF OFFENCE
-Second Count Bankruptcy Offence, contrary to section 172 (c) of the Bankruptcy Act (1997 Revision)
+Second Count Bankruptcy Offence, contrary to section 172 (c) of the Bankruptcy Act (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., having been adjudged bankrupt, on the day of , at ,
 did not deliver up to the trustee a book, called a ledger relating to A.B.'s property affairs.
 STATEMENT OF OFFENCE
-Third Count Bankruptcy Offence, contrary to section 172(d) of the Bankruptcy Law (1997 Revision)
+Third Count Bankruptcy Offence, contrary to section 172(d) of the Bankruptcy Act (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , and within six months next of the
 presentation of a bankruptcy petition against A.B. upon which A.B. was adjudged
@@ -292,20 +293,20 @@ of which the cause was unknown, did attempt to bury the said dead body in a cert
 called .
 29.
 STATEMENT OF OFFENCE
-Conspiracy to incite women to kill their unborn children, contrary to sections 321 and 199 of the Penal Code (2019 Revision)
+Conspiracy to incite women to kill their unborn children, contrary to sections 321 and 199 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., and C.D., on divers days between the and the , at , conspired
 together and with other persons unknown to incite women being with child to administer
 to themselves noxious things with intent to procure the death of their unborn children.
 30.
 STATEMENT OF OFFENCE
-First Count Infanticide, contrary to section 198 of the Penal Code (2019 Revision)
+First Count Infanticide, contrary to section 198 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , caused the death of her newly-born
 child by stabbing it with a knife but at the time of the act she had not fully recovered from
 the effect of giving birth to such child and by reason thereof her mind was then disturbed.
 STATEMENT OF OFFENCE
-Second Count Infanticide, contrary to section 198 of the Penal Code (2019 Revision)
+Second Count Infanticide, contrary to section 198 of the Penal Code (2026 Revision)
 PARTICULARS OF OFFENCE
 A.B., on the day of , at , caused the death of her newly-born
 child by a wilful omission, that is to say wilfully neglecting to , at the
