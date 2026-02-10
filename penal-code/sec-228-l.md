@@ -12,7 +12,7 @@ that person commits an offence.
 (a) summary conviction; or
 (b) conviction on indictment,
 to imprisonment for a term of twelve years.
-(3) Notwithstanding sections 6(2) and 8 of the Criminal Procedure Code (2021 Revision), the court of summary jurisdiction or the Grand Court before which the individual pleads guilty or is convicted, shall --
+(3) Notwithstanding sections 6(2) and 8 of the Criminal Procedure Code (2026 Revision), the court of summary jurisdiction or the Grand Court before which the individual pleads guilty or is convicted, shall --
 (a) in a case where the individual pleads guilty, impose a sentence of imprisonment for a term of at least five years; or
 (b) in any other case, impose a sentence of imprisonment for a term of at least seven years,
 unless the relevant court is of the opinion that there are exceptional circumstances relating to the offence or to the offender which justify its not doing so; and such exceptional circumstances shall be stated by the relevant court.
