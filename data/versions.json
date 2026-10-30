@@ -1,0 +1,229 @@
+{
+ "country": "KY",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "The Constitution of the Cayman Islands (Schedule 2 to the Cayman Islands Constitution Order 2009)",
+   "url": "https://legislation.gov.ky/cms/legislation/constitution/current.html?download=55:the-cayman-islands-constitution-order-2009-uksi-1379-2009",
+   "versions": [
+    {
+     "from": "2009-06-10",
+     "units": 130,
+     "source_url": "https://legislation.gov.ky/cms/legislation/constitution/current.html?download=55:the-cayman-islands-constitution-order-2009-uksi-1379-2009",
+     "sha256": "98e4570cf965970bc59319d113ee7aa1c581d835f3b7305ac1df9103ef5bd1f5"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-order-2009",
+   "short": "Order",
+   "title": "The Cayman Islands Constitution Order 2009: the Order itself (articles 1 to 9 and Schedule 1)",
+   "url": "https://legislation.gov.ky/cms/legislation/constitution/current.html?download=55:the-cayman-islands-constitution-order-2009-uksi-1379-2009",
+   "versions": [
+    {
+     "from": "2009-06-10",
+     "units": 10,
+     "source_url": "https://legislation.gov.ky/cms/legislation/constitution/current.html?download=55:the-cayman-islands-constitution-order-2009-uksi-1379-2009",
+     "sha256": "98e4570cf965970bc59319d113ee7aa1c581d835f3b7305ac1df9103ef5bd1f5"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "The Penal Code",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2026 Revision.pdf",
+   "versions": [
+    {
+     "from": "2018-03-23",
+     "units": 339,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2018 Revision.pdf",
+     "sha256": "2e69d95fddd1c072fde41110fcaba06d6405bb0a9a3a9672efe9f6a37f8e13c5"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 349,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2019 Revision.pdf",
+     "sha256": "81f978ae01facb1b9b720d068225d28e8993871873623d397bfb0ecd2bd30ba1"
+    },
+    {
+     "from": "2022-01-27",
+     "units": 352,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2022 Revision.pdf",
+     "sha256": "dbe92a8889f32393aaa8eba0c715df7187da57abe5a7a33deda107c957f8e708"
+    },
+    {
+     "from": "2024-02-13",
+     "units": 352,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2024 Revision.pdf",
+     "sha256": "76b5c38bdd14ae98b881d88f38ba407330271d404f8f968ab53d54de5b8915e0"
+    },
+    {
+     "from": "2026-02-10",
+     "units": 352,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0012/1975-0012_2026 Revision.pdf",
+     "sha256": "6f85eb2473cb8de83667127ae28cbdceee04ce12e4db458326e75d07416699f4"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act",
+   "short": "Companies Act",
+   "title": "The Companies Act",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2026 Revision.pdf",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 306,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2020 Revision.pdf",
+     "sha256": "a6246a5f73f34ee238dda3c9435bc10ab35a7a8504448a784688b9cccb52948c"
+    },
+    {
+     "from": "2021-01-12",
+     "units": 317,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2021 Revision.pdf",
+     "sha256": "431e52b599011385d71ebcf0adf56e7ccb04ee855bf6fbf8990eeaad7afe7ff7"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 317,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2022 Revision.pdf",
+     "sha256": "db1b7c3fe04a84c9ac20675fdeed52d6e31ec32bddf3a3c99dd65b40afa88a53"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 327,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2023 Revision.pdf",
+     "sha256": "61e8fc2d67cdf2494ce63d5978c01736f4ec19b31ea090f0d4da4b609a1fe00b"
+    },
+    {
+     "from": "2025-01-28",
+     "units": 283,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2025 Revision.pdf",
+     "sha256": "69612e9b60df9a4b80951c67bd869f058462e9a8f04a4f96644e87ca5ef876cd"
+    },
+    {
+     "from": "2026-01-29",
+     "units": 289,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0003/1961-0003_2026 Revision.pdf",
+     "sha256": "afd22f9f518d4dd76f3760eb707b06705594e3f3e2b3c928059d8e4fce039904"
+    }
+   ]
+  },
+  {
+   "slug": "contracts-act",
+   "short": "Contracts Act",
+   "title": "The Contracts Act (the Contracts Law)",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0011/1979-0011_1996 Revision.pdf",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 17,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0011/1979-0011_1996 Revision.pdf",
+     "sha256": "32b98cbcce3cb6687f0328ee917756dedeeec2d68ab20dd21a34dbe8a146568e"
+    }
+   ]
+  },
+  {
+   "slug": "sale-of-goods-act",
+   "short": "Sale of Goods Act",
+   "title": "The Sale of Goods Act (the Sale of Goods Law)",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0012/1979-0012_1997 Revision.pdf",
+   "versions": [
+    {
+     "from": "1997-03-17",
+     "units": 59,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0012/1979-0012_1997 Revision.pdf",
+     "sha256": "6b693aa88b29cf3a3eb39bebbf548d8093af0eab228793ef5acc4cc73225d6e0"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-code",
+   "short": "Criminal Procedure Code",
+   "title": "The Criminal Procedure Code",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0013/1975-0013_2026 Revision.pdf",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 206,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0013/1975-0013_2019 Revision.pdf",
+     "sha256": "be306a8e285ce73cf6a81131fb09d816bfac062f289eb6995c6822cf17d0e07f"
+    },
+    {
+     "from": "2021-01-22",
+     "units": 206,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0013/1975-0013_2021 Revision.pdf",
+     "sha256": "98596f12918887911ae6f3e6a20573ff32f7b5f63dc0f47563f02c45ea6b78bd"
+    },
+    {
+     "from": "2026-02-03",
+     "units": 209,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0013/1975-0013_2026 Revision.pdf",
+     "sha256": "35739041a20fc27881767f81cfffbfbeb0a39946d6b3ef168846a08611e0d330"
+    }
+   ]
+  },
+  {
+   "slug": "evidence-act",
+   "short": "Evidence Act",
+   "title": "The Evidence Act (the Evidence Law)",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1978/1978-0013/1978-0013_2021 Revision.pdf",
+   "versions": [
+    {
+     "from": "2018-03-16",
+     "units": 79,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1978/1978-0013/1978-0013_2018 Revision.pdf",
+     "sha256": "1ec3ab5b94e7754bc0203b79c53ce8461d68b4e341fd21ffd881aa04ea5d4e58"
+    },
+    {
+     "from": "2019-02-14",
+     "units": 87,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1978/1978-0013/1978-0013_2019 Revision.pdf",
+     "sha256": "5d2caa02e89783bf8f997976382b515684cff8f42f67dde2b98d672b079c3240"
+    },
+    {
+     "from": "2021-01-29",
+     "units": 87,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1978/1978-0013/1978-0013_2021 Revision.pdf",
+     "sha256": "4f48fd5d9ce7b33562d692293b455af3df4e4a48a15fbd71c4c637ce5dd79e61"
+    }
+   ]
+  },
+  {
+   "slug": "labour-act",
+   "short": "Labour Act",
+   "title": "The Labour Act (the Labour Law)",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1987/1987-0030/1987-0030_2021 Revision.pdf",
+   "versions": [
+    {
+     "from": "2011-11-07",
+     "units": 87,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1987/1987-0030/1987-0030_2011 Revision.pdf",
+     "sha256": "2c15f5d1e5878cb388b936cf987b63fbd29b41671053b7b2343709289bb429ff"
+    },
+    {
+     "from": "2021-02-05",
+     "units": 88,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1987/1987-0030/1987-0030_2021 Revision.pdf",
+     "sha256": "f5a9485437926702f143efa12d6dc58ab1c2afdffe53ce7c1055c2d6131b4507"
+    }
+   ]
+  },
+  {
+   "slug": "interpretation-act",
+   "short": "Interpretation Act",
+   "title": "The Interpretation Act (the Interpretation Law)",
+   "url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0017/1963-0017_1995 Revision.pdf",
+   "versions": [
+    {
+     "from": "1995-03-20",
+     "units": 64,
+     "source_url": "https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0017/1963-0017_1995 Revision.pdf",
+     "sha256": "5e293ce2bc2fe42d5c69dbea41e03f881aaae93b1e50a023d7953ae756df5bed"
+    }
+   ]
+  }
+ ]
+}
