@@ -1,6 +1,6 @@
 # How this repository was made (Cayman Islands)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-10-30, the day the source data was retrieved.
 
 ## Sources
 
@@ -39,7 +39,7 @@ The build made 24 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 23 laws in the record.
 - 38 tags.
