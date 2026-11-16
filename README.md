@@ -59,6 +59,7 @@ The first version of each act is the oldest version available, credited to the p
 - It also checks that every commit's trailers parse, that main has no merge commits and that no commit is dated after the build. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - `tools/build.py` writes the history from one corpus file, and the same corpus always gives the same commit hashes; its sha256 is in `data/corpus.sha256`. No second build has been compared yet.
 - History is append-only: later versions are appended on top (`tools/append.py`), never forced.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ The first version of each act is the oldest version available, credited to the p
 See [`LICENSE`](LICENSE). The legal text is from legislation.gov.ky, whose PDFs carry no licence statement; the source is credited. Lexifina's own contributions (the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
